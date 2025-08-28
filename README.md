@@ -1,6 +1,6 @@
 # queue-counter
-Contador de pessoas em uma fila.
+Contador de pessoas em uma fila feito em HTML5, CSS3, JavaScript.
 
 ## Deploy Online
-https://curious-zabaione-937f3c.netlify.app/
+https://queue-counter.netlify.app/
 
